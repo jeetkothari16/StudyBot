@@ -15,7 +15,7 @@ It's plain Python with no agent framework, so you can see every step of the agen
 
 ## Contents
 
-1. [Setup(Pre-requisites)]
+1. [Setup](#Pre-requisites)
 2. [The checkpoints](#the-checkpoints)
 3. [How the project is organised](#how-the-project-is-organised)
 4. [Save your work to GitHub](#save-your-work-to-github)
@@ -24,7 +24,7 @@ It's plain Python with no agent framework, so you can see every step of the agen
 
 ---
 
-## Setup (do this at home, before the session)
+## Setup (Pre-requisites)
 
 It takes about 30–40 minutes, even on a laptop that has never been used for coding. At the end, the hello test must say **You're ready!**
 
