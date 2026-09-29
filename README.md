@@ -1,4 +1,6 @@
 📚 StudyBot
+
+
 An AI study agent you build yourself in 45 minutes. Type a topic and Study Buddy searches the web, explains it simply, saves a short note, and remembers what you've studied. Say "quiz me" and it tests you.
 
 It's plain Python with no agent framework, so you can see every step of the agent loop: perceive → reason → act → observe.
