@@ -4,7 +4,6 @@
 
 It's plain Python with no agent framework, so you can see every step of the agent loop: **perceive → reason → act → observe**.
 
-![Study Bot searching the web](docs/images/web_search.svg)
 
 > ### 🆘 Stuck or behind? One command catches you up:
 > ```
@@ -16,7 +15,7 @@ It's plain Python with no agent framework, so you can see every step of the agen
 
 ## Contents
 
-1. [Setup (do this at home, before the session)](#setup-do-this-at-home-before-the-session)
+1. [Setup(Pre-requisites)
 2. [The checkpoints](#the-checkpoints)
 3. [How the project is organised](#how-the-project-is-organised)
 4. [Save your work to GitHub](#save-your-work-to-github)
